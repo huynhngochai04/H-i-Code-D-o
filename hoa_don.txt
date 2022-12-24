@@ -1,0 +1,16 @@
+------------------------------------------------------
+Vao ngay 23/2/2022
+Khach hang ten: Huynh Ngoc Hai da mua hang
+Khach hang da mua san pham co id: MH001 So luong: 2
+Khach hang da mua san pham co id: MH002 So luong: 3
+Ten nhan vien ban hang: Hai dep trai
+Vao ngay 24/11/2022
+Khach hang ten: Hai dep trai sieu cap vip pro da mua hang
+Khach hang da mua san pham co id: MH001 So luong: 2
+Khach hang da mua san pham co id: MH002 So luong: 5
+Ten nhan vien ban hang: Hai Code Dao
+Vao ngay 24/11/2004
+Khach hang ten: Hai da mua hang
+Khach hang da mua san pham co id: MH001 So luong: 2
+Khach hang da mua san pham co id: MH002 So luong: 3
+Ten nhan vien ban hang: ai dep trai
